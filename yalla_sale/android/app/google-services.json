@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12452443521",
+    "firebase_url": "https://yalla-sale-85222.firebaseio.com",
+    "project_id": "yalla-sale-85222",
+    "storage_bucket": "yalla-sale-85222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12452443521:android:8dc9f677c8ada6c5ef2480",
+        "android_client_info": {
+          "package_name": "com.example.yalla_sale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12452443521-l7rhf6ecun7fki2enoj8udjdu85kmeiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uvnImQTKcP0PfHh_oBiZPNSAZqAYLfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12452443521-l7rhf6ecun7fki2enoj8udjdu85kmeiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
